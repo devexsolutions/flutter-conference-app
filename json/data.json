@@ -85,7 +85,7 @@
   "tracks": [
     {
       "id": "main",
-      "name": "Main",
+      "name": "Carpa Principal",
       "color": "#F0C674"
     },
     {
@@ -127,14 +127,14 @@
   ],
   "schedule": [
     {
-      "time": "12:00am",
+      "time": "12:00h",
       "talks": [
         {
           "speaker_id": "bojack",
           "track_id": "main",
           "talk_type_id": "technical",
-          "title": "CATA DE ACEITE.",
-          "description": "Cata sobre los aceites extremeños “Sentir de Ba- rros” a cargo de Elena Becerra y La Chinata."
+          "title": "CATA DE ACEITE",
+          "description": "Cata sobre los aceites extremeños Sentir de Barros a cargo de Elena Becerra y La Chinata."
         }
       ]
     },
@@ -145,8 +145,8 @@
           "speaker_id": "diane",
           "track_id": "track1",
           "talk_type_id": "fun",
-          "title": "Silence is not closest in order, the home, or paradise, but everywhere.",
-          "description": "Samadhi is not one in chaos, the country of tantra, or paradise, but everywhere."
+          "title": "TALLER DE RESPOSTERÍA CREATIVA",
+          "description": "Elaboración de postres con espárragos y tagarninas."
         },
         {
           "speaker_id": "peanutbutter",
