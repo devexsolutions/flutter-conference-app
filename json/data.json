@@ -127,14 +127,14 @@
   ],
   "schedule": [
     {
-      "time": "8:00am",
+      "time": "12:00am",
       "talks": [
         {
           "speaker_id": "bojack",
           "track_id": "main",
           "talk_type_id": "technical",
-          "title": "Exist and you will be invented extraordinarilly.",
-          "description": "Suns, moons, and apostolic winds will always protect them."
+          "title": "CATA DE ACEITE.",
+          "description": "Cata sobre los aceites extremeños “Sentir de Ba- rros” a cargo de Elena Becerra y La Chinata."
         }
       ]
     },
